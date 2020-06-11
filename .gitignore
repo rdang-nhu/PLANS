@@ -1,0 +1,12 @@
+server_backup/
+venv/
+*.pyc
+*.idea
+datasets/
+train_dir/
+*parser.out
+*parsetab.py
+solver_logs/*
+!solver_logs/.keep
+*.out
+rosette/generated_files/

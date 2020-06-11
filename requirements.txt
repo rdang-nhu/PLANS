@@ -1,0 +1,12 @@
+tensorflow-gpu==1.5
+tensorflow==1.5
+cudnn=7.1.2
+matplotlib
+scipy
+numpy
+colorlog
+h5py
+Pillow
+progressbar
+ply
+pandas
