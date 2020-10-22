@@ -1,11 +1,13 @@
-# Robust Program Learning from Neurally Inferred Specifications
+# PLANS: Neuro-Symbolic Program Learning from Videos
 
-This is the source code for **[Robust Program Learning from Neurally Inferred Specifications](https://arxiv.org/abs/2006.03312)**.
+This is the source code for the Neurips 2020 paper **[PLANS: Neuro-Symbolic Program Learning from Videos](https://arxiv.org/abs/2006.03312)**.
 
 ## Description
 
 This work presents a new approach to program learning from raw, unstructured input. It combines a neural architecture that is trained to extract abstract, high-level specifications of program behaviour from high-dimensional sensory input, and a rule-based solver that provides correctness guarantees regarding the generated program.
 We reach state-of-the-art performance on the task of *program synthesis from demonstration videos*. We address the crucial problem of making our system resistant to noise originating from the imperfect accuracy of the neural component.
+
+![PLANS](image.png?raw=true "Model illustration.")
 
 ## Structure of the repository
 
