@@ -99,7 +99,7 @@ The following is a summary of the experimental results presented in the paper.
 
 If you use this repository, please cite the following work
 
-'''
+```
 @article{dang2020plans,
   title={PLANS: Neuro-Symbolic Program Learning from Videos},
   author={Dang-Nhu, Rapha{\"e}l},
@@ -107,5 +107,5 @@ If you use this repository, please cite the following work
   volume={33},
   year={2020}
 }
-'''
+```
 
