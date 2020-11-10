@@ -1,6 +1,6 @@
 # PLANS: Neuro-Symbolic Program Learning from Videos
 
-This is the source code for the Neurips 2020 paper **[PLANS: Neuro-Symbolic Program Learning from Videos](https://arxiv.org/abs/2006.03312)**.
+This is the source code for the Neurips 2020 paper **[PLANS: Neuro-Symbolic Program Learning from Videos](https://proceedings.neurips.cc/paper/2020/file/fe131d7f5a6b38b23cc967316c13dae2-Paper.pdf)**.
 
 ## Description
 
@@ -98,12 +98,13 @@ The following is a summary of the experimental results presented in the paper.
 ## Citing this work
 
 If you use this repository, please cite the following work
+'''
+@article{dang2020plans,
+  title={PLANS: Neuro-Symbolic Program Learning from Videos},
+  author={Dang-Nhu, Rapha{\"e}l},
+  journal={Advances in Neural Information Processing Systems},
+  volume={33},
+  year={2020}
+}
+'''
 
-    @misc{dangnhu2020plans,
-        title={PLANS: Robust Program Learning from Neurally Inferred Specifications},
-        author={Raphaël Dang-Nhu},
-        year={2020},
-        eprint={2006.03312},
-        archivePrefix={arXiv},
-        primaryClass={cs.LG}
-    }
