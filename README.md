@@ -98,6 +98,7 @@ The following is a summary of the experimental results presented in the paper.
 ## Citing this work
 
 If you use this repository, please cite the following work
+
 '''
 @article{dang2020plans,
   title={PLANS: Neuro-Symbolic Program Learning from Videos},
