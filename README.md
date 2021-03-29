@@ -23,7 +23,10 @@ We reach state-of-the-art performance on the task of *program synthesis from dem
 
 #### Rosette solver
 
+**IMPORTANT:** the 2021 Rosette 4.0 release is not backwards compatible and breaks the code, see [release information](https://github.com/emina/rosette/releases). I recommend using Rosette 3.2.
+
 For installing Racket and the Rosette solver, please see the instructions in the [official repository](https://github.com/emina/rosette).
+
 
 #### PLY
 
